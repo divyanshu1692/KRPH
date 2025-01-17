@@ -1,0 +1,2040 @@
+[
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 78214,
+      "totalQuedCallsASA": 37128,
+      "percentQuedCallsASA": 47.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 78214,
+      "callAHT_300_seconds": 66265,
+      "percentAHT_300_seconds": 84.72
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 84185,
+      "totalActiveAgent": 407,
+      "callsPerActiveAgent": 206.84
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51672,
+      "totalQuedCallsASA": 28265,
+      "percentQuedCallsASA": 54.7
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51672,
+      "callAHT_300_seconds": 40421,
+      "percentAHT_300_seconds": 78.23
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75608,
+      "totalActiveAgent": 428,
+      "callsPerActiveAgent": 176.65
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42402,
+      "totalQuedCallsASA": 15257,
+      "percentQuedCallsASA": 35.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42402,
+      "callAHT_300_seconds": 29210,
+      "percentAHT_300_seconds": 68.89
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 106935,
+      "totalActiveAgent": 499,
+      "callsPerActiveAgent": 214.3
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 53472,
+      "totalQuedCallsASA": 20775,
+      "percentQuedCallsASA": 38.85
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 53472,
+      "callAHT_300_seconds": 37902,
+      "percentAHT_300_seconds": 70.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 107871,
+      "totalActiveAgent": 511,
+      "callsPerActiveAgent": 211.1
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 56110,
+      "totalQuedCallsASA": 23376,
+      "percentQuedCallsASA": 41.66
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 56110,
+      "callAHT_300_seconds": 41315,
+      "percentAHT_300_seconds": 73.63
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 118253,
+      "totalActiveAgent": 528,
+      "callsPerActiveAgent": 223.96
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 59015,
+      "totalQuedCallsASA": 41179,
+      "percentQuedCallsASA": 69.78
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 59015,
+      "callAHT_300_seconds": 45404,
+      "percentAHT_300_seconds": 76.94
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75533,
+      "totalActiveAgent": 503,
+      "callsPerActiveAgent": 150.17
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51253,
+      "totalQuedCallsASA": 46275,
+      "percentQuedCallsASA": 90.29
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51253,
+      "callAHT_300_seconds": 40603,
+      "percentAHT_300_seconds": 79.22
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 54276,
+      "totalActiveAgent": 473,
+      "callsPerActiveAgent": 114.75
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40492,
+      "totalQuedCallsASA": 39337,
+      "percentQuedCallsASA": 97.15
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40492,
+      "callAHT_300_seconds": 31687,
+      "percentAHT_300_seconds": 78.25
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 41897,
+      "totalActiveAgent": 479,
+      "callsPerActiveAgent": 87.47
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40708,
+      "totalQuedCallsASA": 39042,
+      "percentQuedCallsASA": 95.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40708,
+      "callAHT_300_seconds": 31297,
+      "percentAHT_300_seconds": 76.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42455,
+      "totalActiveAgent": 544,
+      "callsPerActiveAgent": 78.04
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 50919,
+      "totalQuedCallsASA": 48279,
+      "percentQuedCallsASA": 94.82
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 50919,
+      "callAHT_300_seconds": 40518,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 53616,
+      "totalActiveAgent": 542,
+      "callsPerActiveAgent": 98.92
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 64569,
+      "totalQuedCallsASA": 62019,
+      "percentQuedCallsASA": 96.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 64569,
+      "callAHT_300_seconds": 54940,
+      "percentAHT_300_seconds": 85.09
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 66624,
+      "totalActiveAgent": 532,
+      "callsPerActiveAgent": 125.23
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 80043,
+      "totalQuedCallsASA": 79479,
+      "percentQuedCallsASA": 99.3
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 80043,
+      "callAHT_300_seconds": 68888,
+      "percentAHT_300_seconds": 86.06
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 81688,
+      "totalActiveAgent": 571,
+      "callsPerActiveAgent": 143.06
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 76558,
+      "totalQuedCallsASA": 75763,
+      "percentQuedCallsASA": 98.96
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 76558,
+      "callAHT_300_seconds": 64807,
+      "percentAHT_300_seconds": 84.65
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 79406,
+      "totalActiveAgent": 633,
+      "callsPerActiveAgent": 125.44
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 45291,
+      "totalQuedCallsASA": 45052,
+      "percentQuedCallsASA": 99.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 45291,
+      "callAHT_300_seconds": 36163,
+      "percentAHT_300_seconds": 79.85
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 46868,
+      "totalActiveAgent": 637,
+      "callsPerActiveAgent": 73.58
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 23280,
+      "totalQuedCallsASA": 23274,
+      "percentQuedCallsASA": 99.97
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 23280,
+      "callAHT_300_seconds": 18509,
+      "percentAHT_300_seconds": 79.51
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 23783,
+      "totalActiveAgent": 567,
+      "callsPerActiveAgent": 41.95
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 30991,
+      "totalQuedCallsASA": 30985,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 30991,
+      "callAHT_300_seconds": 24661,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 31616,
+      "totalActiveAgent": 606,
+      "callsPerActiveAgent": 52.17
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42405,
+      "totalQuedCallsASA": 42396,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42405,
+      "callAHT_300_seconds": 35116,
+      "percentAHT_300_seconds": 82.81
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 43451,
+      "totalActiveAgent": 585,
+      "callsPerActiveAgent": 74.28
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 41661,
+      "totalQuedCallsASA": 41652,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 41661,
+      "callAHT_300_seconds": 34105,
+      "percentAHT_300_seconds": 81.86
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42482,
+      "totalActiveAgent": 594,
+      "callsPerActiveAgent": 71.52
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 38020,
+      "totalQuedCallsASA": 37995,
+      "percentQuedCallsASA": 99.93
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 38020,
+      "callAHT_300_seconds": 30666,
+      "percentAHT_300_seconds": 80.66
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 38723,
+      "totalActiveAgent": 623,
+      "callsPerActiveAgent": 62.16
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 26968,
+      "totalQuedCallsASA": 25043,
+      "percentQuedCallsASA": 92.86
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 26968,
+      "callAHT_300_seconds": 21611,
+      "percentAHT_300_seconds": 80.14
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 27703,
+      "totalActiveAgent": 636,
+      "callsPerActiveAgent": 43.56
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 36095,
+      "totalQuedCallsASA": 35961,
+      "percentQuedCallsASA": 99.63
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 36095,
+      "callAHT_300_seconds": 28768,
+      "percentAHT_300_seconds": 79.7
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 36922,
+      "totalActiveAgent": 578,
+      "callsPerActiveAgent": 63.88
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 27814,
+      "totalQuedCallsASA": 27810,
+      "percentQuedCallsASA": 99.99
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 27814,
+      "callAHT_300_seconds": 21888,
+      "percentAHT_300_seconds": 78.69
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 28241,
+      "totalActiveAgent": 565,
+      "callsPerActiveAgent": 49.98
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 48850,
+      "totalQuedCallsASA": 48806,
+      "percentQuedCallsASA": 99.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 48850,
+      "callAHT_300_seconds": 39305,
+      "percentAHT_300_seconds": 80.46
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 49540,
+      "totalActiveAgent": 615,
+      "callsPerActiveAgent": 80.55
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 68246,
+      "totalQuedCallsASA": 66914,
+      "percentQuedCallsASA": 98.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 68246,
+      "callAHT_300_seconds": 57412,
+      "percentAHT_300_seconds": 84.13
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 69745,
+      "totalActiveAgent": 616,
+      "callsPerActiveAgent": 113.22
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 78214,
+      "totalQuedCallsASA": 37128,
+      "percentQuedCallsASA": 47.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 78214,
+      "callAHT_300_seconds": 66265,
+      "percentAHT_300_seconds": 84.72
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 84185,
+      "totalActiveAgent": 407,
+      "callsPerActiveAgent": 206.84
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51672,
+      "totalQuedCallsASA": 28265,
+      "percentQuedCallsASA": 54.7
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51672,
+      "callAHT_300_seconds": 40421,
+      "percentAHT_300_seconds": 78.23
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75608,
+      "totalActiveAgent": 428,
+      "callsPerActiveAgent": 176.65
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42402,
+      "totalQuedCallsASA": 15257,
+      "percentQuedCallsASA": 35.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42402,
+      "callAHT_300_seconds": 29210,
+      "percentAHT_300_seconds": 68.89
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 106935,
+      "totalActiveAgent": 499,
+      "callsPerActiveAgent": 214.3
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 53472,
+      "totalQuedCallsASA": 20775,
+      "percentQuedCallsASA": 38.85
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 53472,
+      "callAHT_300_seconds": 37902,
+      "percentAHT_300_seconds": 70.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 107871,
+      "totalActiveAgent": 511,
+      "callsPerActiveAgent": 211.1
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 56110,
+      "totalQuedCallsASA": 23376,
+      "percentQuedCallsASA": 41.66
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 56110,
+      "callAHT_300_seconds": 41315,
+      "percentAHT_300_seconds": 73.63
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 118253,
+      "totalActiveAgent": 528,
+      "callsPerActiveAgent": 223.96
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 59015,
+      "totalQuedCallsASA": 41179,
+      "percentQuedCallsASA": 69.78
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 59015,
+      "callAHT_300_seconds": 45404,
+      "percentAHT_300_seconds": 76.94
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75533,
+      "totalActiveAgent": 503,
+      "callsPerActiveAgent": 150.17
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51253,
+      "totalQuedCallsASA": 46275,
+      "percentQuedCallsASA": 90.29
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51253,
+      "callAHT_300_seconds": 40603,
+      "percentAHT_300_seconds": 79.22
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 54276,
+      "totalActiveAgent": 473,
+      "callsPerActiveAgent": 114.75
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40492,
+      "totalQuedCallsASA": 39337,
+      "percentQuedCallsASA": 97.15
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40492,
+      "callAHT_300_seconds": 31687,
+      "percentAHT_300_seconds": 78.25
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 41897,
+      "totalActiveAgent": 479,
+      "callsPerActiveAgent": 87.47
+    }
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 78214,
+      "totalQuedCallsASA": 37128,
+      "percentQuedCallsASA": 47.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 78214,
+      "callAHT_300_seconds": 66265,
+      "percentAHT_300_seconds": 84.72
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 84185,
+      "totalActiveAgent": 407,
+      "callsPerActiveAgent": 206.84
+    },
+    "insertedDate": "2024-09-01T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51672,
+      "totalQuedCallsASA": 28265,
+      "percentQuedCallsASA": 54.7
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51672,
+      "callAHT_300_seconds": 40421,
+      "percentAHT_300_seconds": 78.23
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75608,
+      "totalActiveAgent": 428,
+      "callsPerActiveAgent": 176.65
+    },
+    "insertedDate": "2024-09-02T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42402,
+      "totalQuedCallsASA": 15257,
+      "percentQuedCallsASA": 35.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42402,
+      "callAHT_300_seconds": 29210,
+      "percentAHT_300_seconds": 68.89
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 106935,
+      "totalActiveAgent": 499,
+      "callsPerActiveAgent": 214.3
+    },
+    "insertedDate": "2024-09-03T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 53472,
+      "totalQuedCallsASA": 20775,
+      "percentQuedCallsASA": 38.85
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 53472,
+      "callAHT_300_seconds": 37902,
+      "percentAHT_300_seconds": 70.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 107871,
+      "totalActiveAgent": 511,
+      "callsPerActiveAgent": 211.1
+    },
+    "insertedDate": "2024-09-04T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 56110,
+      "totalQuedCallsASA": 23376,
+      "percentQuedCallsASA": 41.66
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 56110,
+      "callAHT_300_seconds": 41315,
+      "percentAHT_300_seconds": 73.63
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 118253,
+      "totalActiveAgent": 528,
+      "callsPerActiveAgent": 223.96
+    },
+    "insertedDate": "2024-09-05T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 59015,
+      "totalQuedCallsASA": 41179,
+      "percentQuedCallsASA": 69.78
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 59015,
+      "callAHT_300_seconds": 45404,
+      "percentAHT_300_seconds": 76.94
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75533,
+      "totalActiveAgent": 503,
+      "callsPerActiveAgent": 150.17
+    },
+    "insertedDate": "2024-09-06T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51253,
+      "totalQuedCallsASA": 46275,
+      "percentQuedCallsASA": 90.29
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51253,
+      "callAHT_300_seconds": 40603,
+      "percentAHT_300_seconds": 79.22
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 54276,
+      "totalActiveAgent": 473,
+      "callsPerActiveAgent": 114.75
+    },
+    "insertedDate": "2024-09-07T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40492,
+      "totalQuedCallsASA": 39337,
+      "percentQuedCallsASA": 97.15
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40492,
+      "callAHT_300_seconds": 31687,
+      "percentAHT_300_seconds": 78.25
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 41897,
+      "totalActiveAgent": 479,
+      "callsPerActiveAgent": 87.47
+    },
+    "insertedDate": "2024-09-08T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40708,
+      "totalQuedCallsASA": 39042,
+      "percentQuedCallsASA": 95.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40708,
+      "callAHT_300_seconds": 31297,
+      "percentAHT_300_seconds": 76.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42455,
+      "totalActiveAgent": 544,
+      "callsPerActiveAgent": 78.04
+    },
+    "insertedDate": "2024-09-09T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 50919,
+      "totalQuedCallsASA": 48279,
+      "percentQuedCallsASA": 94.82
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 50919,
+      "callAHT_300_seconds": 40518,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 53616,
+      "totalActiveAgent": 542,
+      "callsPerActiveAgent": 98.92
+    },
+    "insertedDate": "2024-09-10T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 64569,
+      "totalQuedCallsASA": 62019,
+      "percentQuedCallsASA": 96.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 64569,
+      "callAHT_300_seconds": 54940,
+      "percentAHT_300_seconds": 85.09
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 66624,
+      "totalActiveAgent": 532,
+      "callsPerActiveAgent": 125.23
+    },
+    "insertedDate": "2024-09-11T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 80043,
+      "totalQuedCallsASA": 79479,
+      "percentQuedCallsASA": 99.3
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 80043,
+      "callAHT_300_seconds": 68888,
+      "percentAHT_300_seconds": 86.06
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 81688,
+      "totalActiveAgent": 571,
+      "callsPerActiveAgent": 143.06
+    },
+    "insertedDate": "2024-09-12T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 76558,
+      "totalQuedCallsASA": 75763,
+      "percentQuedCallsASA": 98.96
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 76558,
+      "callAHT_300_seconds": 64807,
+      "percentAHT_300_seconds": 84.65
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 79406,
+      "totalActiveAgent": 633,
+      "callsPerActiveAgent": 125.44
+    },
+    "insertedDate": "2024-09-13T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 45291,
+      "totalQuedCallsASA": 45052,
+      "percentQuedCallsASA": 99.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 45291,
+      "callAHT_300_seconds": 36163,
+      "percentAHT_300_seconds": 79.85
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 46868,
+      "totalActiveAgent": 637,
+      "callsPerActiveAgent": 73.58
+    },
+    "insertedDate": "2024-09-14T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 23280,
+      "totalQuedCallsASA": 23274,
+      "percentQuedCallsASA": 99.97
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 23280,
+      "callAHT_300_seconds": 18509,
+      "percentAHT_300_seconds": 79.51
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 23783,
+      "totalActiveAgent": 567,
+      "callsPerActiveAgent": 41.95
+    },
+    "insertedDate": "2024-09-15T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 30991,
+      "totalQuedCallsASA": 30985,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 30991,
+      "callAHT_300_seconds": 24661,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 31616,
+      "totalActiveAgent": 606,
+      "callsPerActiveAgent": 52.17
+    },
+    "insertedDate": "2024-09-16T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42405,
+      "totalQuedCallsASA": 42396,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42405,
+      "callAHT_300_seconds": 35116,
+      "percentAHT_300_seconds": 82.81
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 43451,
+      "totalActiveAgent": 585,
+      "callsPerActiveAgent": 74.28
+    },
+    "insertedDate": "2024-09-17T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 41661,
+      "totalQuedCallsASA": 41652,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 41661,
+      "callAHT_300_seconds": 34105,
+      "percentAHT_300_seconds": 81.86
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42482,
+      "totalActiveAgent": 594,
+      "callsPerActiveAgent": 71.52
+    },
+    "insertedDate": "2024-09-18T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 38020,
+      "totalQuedCallsASA": 37995,
+      "percentQuedCallsASA": 99.93
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 38020,
+      "callAHT_300_seconds": 30666,
+      "percentAHT_300_seconds": 80.66
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 38723,
+      "totalActiveAgent": 623,
+      "callsPerActiveAgent": 62.16
+    },
+    "insertedDate": "2024-09-19T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 26968,
+      "totalQuedCallsASA": 25043,
+      "percentQuedCallsASA": 92.86
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 26968,
+      "callAHT_300_seconds": 21611,
+      "percentAHT_300_seconds": 80.14
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 27703,
+      "totalActiveAgent": 636,
+      "callsPerActiveAgent": 43.56
+    },
+    "insertedDate": "2024-09-20T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 36095,
+      "totalQuedCallsASA": 35961,
+      "percentQuedCallsASA": 99.63
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 36095,
+      "callAHT_300_seconds": 28768,
+      "percentAHT_300_seconds": 79.7
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 36922,
+      "totalActiveAgent": 578,
+      "callsPerActiveAgent": 63.88
+    },
+    "insertedDate": "2024-09-21T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 27814,
+      "totalQuedCallsASA": 27810,
+      "percentQuedCallsASA": 99.99
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 27814,
+      "callAHT_300_seconds": 21888,
+      "percentAHT_300_seconds": 78.69
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 28241,
+      "totalActiveAgent": 565,
+      "callsPerActiveAgent": 49.98
+    },
+    "insertedDate": "2024-09-22T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 48850,
+      "totalQuedCallsASA": 48806,
+      "percentQuedCallsASA": 99.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 48850,
+      "callAHT_300_seconds": 39305,
+      "percentAHT_300_seconds": 80.46
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 49540,
+      "totalActiveAgent": 615,
+      "callsPerActiveAgent": 80.55
+    },
+    "insertedDate": "2024-09-23T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 68246,
+      "totalQuedCallsASA": 66914,
+      "percentQuedCallsASA": 98.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 68246,
+      "callAHT_300_seconds": 57412,
+      "percentAHT_300_seconds": 84.13
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 69745,
+      "totalActiveAgent": 616,
+      "callsPerActiveAgent": 113.22
+    },
+    "insertedDate": "2024-09-24T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 78214,
+      "totalQuedCallsASA": 37128,
+      "percentQuedCallsASA": 47.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 78214,
+      "callAHT_300_seconds": 66265,
+      "percentAHT_300_seconds": 84.72
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 84185,
+      "totalActiveAgent": 407,
+      "callsPerActiveAgent": 206.84
+    },
+    "insertedDate": "2024-09-01T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51672,
+      "totalQuedCallsASA": 28265,
+      "percentQuedCallsASA": 54.7
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51672,
+      "callAHT_300_seconds": 40421,
+      "percentAHT_300_seconds": 78.23
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75608,
+      "totalActiveAgent": 428,
+      "callsPerActiveAgent": 176.65
+    },
+    "insertedDate": "2024-09-02T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42402,
+      "totalQuedCallsASA": 15257,
+      "percentQuedCallsASA": 35.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42402,
+      "callAHT_300_seconds": 29210,
+      "percentAHT_300_seconds": 68.89
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 106935,
+      "totalActiveAgent": 499,
+      "callsPerActiveAgent": 214.3
+    },
+    "insertedDate": "2024-09-03T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 53472,
+      "totalQuedCallsASA": 20775,
+      "percentQuedCallsASA": 38.85
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 53472,
+      "callAHT_300_seconds": 37902,
+      "percentAHT_300_seconds": 70.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 107871,
+      "totalActiveAgent": 511,
+      "callsPerActiveAgent": 211.1
+    },
+    "insertedDate": "2024-09-04T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 56110,
+      "totalQuedCallsASA": 23376,
+      "percentQuedCallsASA": 41.66
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 56110,
+      "callAHT_300_seconds": 41315,
+      "percentAHT_300_seconds": 73.63
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 118253,
+      "totalActiveAgent": 528,
+      "callsPerActiveAgent": 223.96
+    },
+    "insertedDate": "2024-09-05T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 59015,
+      "totalQuedCallsASA": 41179,
+      "percentQuedCallsASA": 69.78
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 59015,
+      "callAHT_300_seconds": 45404,
+      "percentAHT_300_seconds": 76.94
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75533,
+      "totalActiveAgent": 503,
+      "callsPerActiveAgent": 150.17
+    },
+    "insertedDate": "2024-09-06T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51253,
+      "totalQuedCallsASA": 46275,
+      "percentQuedCallsASA": 90.29
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51253,
+      "callAHT_300_seconds": 40603,
+      "percentAHT_300_seconds": 79.22
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 54276,
+      "totalActiveAgent": 473,
+      "callsPerActiveAgent": 114.75
+    },
+    "insertedDate": "2024-09-07T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40492,
+      "totalQuedCallsASA": 39337,
+      "percentQuedCallsASA": 97.15
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40492,
+      "callAHT_300_seconds": 31687,
+      "percentAHT_300_seconds": 78.25
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 41897,
+      "totalActiveAgent": 479,
+      "callsPerActiveAgent": 87.47
+    },
+    "insertedDate": "2024-09-08T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40708,
+      "totalQuedCallsASA": 39042,
+      "percentQuedCallsASA": 95.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40708,
+      "callAHT_300_seconds": 31297,
+      "percentAHT_300_seconds": 76.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42455,
+      "totalActiveAgent": 544,
+      "callsPerActiveAgent": 78.04
+    },
+    "insertedDate": "2024-09-09T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 50919,
+      "totalQuedCallsASA": 48279,
+      "percentQuedCallsASA": 94.82
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 50919,
+      "callAHT_300_seconds": 40518,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 53616,
+      "totalActiveAgent": 542,
+      "callsPerActiveAgent": 98.92
+    },
+    "insertedDate": "2024-09-10T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 64569,
+      "totalQuedCallsASA": 62019,
+      "percentQuedCallsASA": 96.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 64569,
+      "callAHT_300_seconds": 54940,
+      "percentAHT_300_seconds": 85.09
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 66624,
+      "totalActiveAgent": 532,
+      "callsPerActiveAgent": 125.23
+    },
+    "insertedDate": "2024-09-11T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 80043,
+      "totalQuedCallsASA": 79479,
+      "percentQuedCallsASA": 99.3
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 80043,
+      "callAHT_300_seconds": 68888,
+      "percentAHT_300_seconds": 86.06
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 81688,
+      "totalActiveAgent": 571,
+      "callsPerActiveAgent": 143.06
+    },
+    "insertedDate": "2024-09-12T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 76558,
+      "totalQuedCallsASA": 75763,
+      "percentQuedCallsASA": 98.96
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 76558,
+      "callAHT_300_seconds": 64807,
+      "percentAHT_300_seconds": 84.65
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 79406,
+      "totalActiveAgent": 633,
+      "callsPerActiveAgent": 125.44
+    },
+    "insertedDate": "2024-09-13T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 45291,
+      "totalQuedCallsASA": 45052,
+      "percentQuedCallsASA": 99.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 45291,
+      "callAHT_300_seconds": 36163,
+      "percentAHT_300_seconds": 79.85
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 46868,
+      "totalActiveAgent": 637,
+      "callsPerActiveAgent": 73.58
+    },
+    "insertedDate": "2024-09-14T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 23280,
+      "totalQuedCallsASA": 23274,
+      "percentQuedCallsASA": 99.97
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 23280,
+      "callAHT_300_seconds": 18509,
+      "percentAHT_300_seconds": 79.51
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 23783,
+      "totalActiveAgent": 567,
+      "callsPerActiveAgent": 41.95
+    },
+    "insertedDate": "2024-09-15T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 30991,
+      "totalQuedCallsASA": 30985,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 30991,
+      "callAHT_300_seconds": 24661,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 31616,
+      "totalActiveAgent": 606,
+      "callsPerActiveAgent": 52.17
+    },
+    "insertedDate": "2024-09-16T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42405,
+      "totalQuedCallsASA": 42396,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42405,
+      "callAHT_300_seconds": 35116,
+      "percentAHT_300_seconds": 82.81
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 43451,
+      "totalActiveAgent": 585,
+      "callsPerActiveAgent": 74.28
+    },
+    "insertedDate": "2024-09-17T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 41661,
+      "totalQuedCallsASA": 41652,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 41661,
+      "callAHT_300_seconds": 34105,
+      "percentAHT_300_seconds": 81.86
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42482,
+      "totalActiveAgent": 594,
+      "callsPerActiveAgent": 71.52
+    },
+    "insertedDate": "2024-09-18T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 38020,
+      "totalQuedCallsASA": 37995,
+      "percentQuedCallsASA": 99.93
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 38020,
+      "callAHT_300_seconds": 30666,
+      "percentAHT_300_seconds": 80.66
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 38723,
+      "totalActiveAgent": 623,
+      "callsPerActiveAgent": 62.16
+    },
+    "insertedDate": "2024-09-19T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 26968,
+      "totalQuedCallsASA": 25043,
+      "percentQuedCallsASA": 92.86
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 26968,
+      "callAHT_300_seconds": 21611,
+      "percentAHT_300_seconds": 80.14
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 27703,
+      "totalActiveAgent": 636,
+      "callsPerActiveAgent": 43.56
+    },
+    "insertedDate": "2024-09-20T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 36095,
+      "totalQuedCallsASA": 35961,
+      "percentQuedCallsASA": 99.63
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 36095,
+      "callAHT_300_seconds": 28768,
+      "percentAHT_300_seconds": 79.7
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 36922,
+      "totalActiveAgent": 578,
+      "callsPerActiveAgent": 63.88
+    },
+    "insertedDate": "2024-09-21T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 27814,
+      "totalQuedCallsASA": 27810,
+      "percentQuedCallsASA": 99.99
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 27814,
+      "callAHT_300_seconds": 21888,
+      "percentAHT_300_seconds": 78.69
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 28241,
+      "totalActiveAgent": 565,
+      "callsPerActiveAgent": 49.98
+    },
+    "insertedDate": "2024-09-22T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 48850,
+      "totalQuedCallsASA": 48806,
+      "percentQuedCallsASA": 99.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 48850,
+      "callAHT_300_seconds": 39305,
+      "percentAHT_300_seconds": 80.46
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 49540,
+      "totalActiveAgent": 615,
+      "callsPerActiveAgent": 80.55
+    },
+    "insertedDate": "2024-09-23T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 68246,
+      "totalQuedCallsASA": 66914,
+      "percentQuedCallsASA": 98.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 68246,
+      "callAHT_300_seconds": 57412,
+      "percentAHT_300_seconds": 84.13
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 69745,
+      "totalActiveAgent": 616,
+      "callsPerActiveAgent": 113.22
+    },
+    "insertedDate": "2024-09-24T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-25T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-26T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-27T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-28T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-29T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-30T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 78214,
+      "totalQuedCallsASA": 37128,
+      "percentQuedCallsASA": 47.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 78214,
+      "callAHT_300_seconds": 66265,
+      "percentAHT_300_seconds": 84.72
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 84185,
+      "totalActiveAgent": 407,
+      "callsPerActiveAgent": 206.84
+    },
+    "insertedDate": "2024-09-01T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51672,
+      "totalQuedCallsASA": 28265,
+      "percentQuedCallsASA": 54.7
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51672,
+      "callAHT_300_seconds": 40421,
+      "percentAHT_300_seconds": 78.23
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75608,
+      "totalActiveAgent": 428,
+      "callsPerActiveAgent": 176.65
+    },
+    "insertedDate": "2024-09-02T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42402,
+      "totalQuedCallsASA": 15257,
+      "percentQuedCallsASA": 35.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42402,
+      "callAHT_300_seconds": 29210,
+      "percentAHT_300_seconds": 68.89
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 106935,
+      "totalActiveAgent": 499,
+      "callsPerActiveAgent": 214.3
+    },
+    "insertedDate": "2024-09-03T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 53472,
+      "totalQuedCallsASA": 20775,
+      "percentQuedCallsASA": 38.85
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 53472,
+      "callAHT_300_seconds": 37902,
+      "percentAHT_300_seconds": 70.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 107871,
+      "totalActiveAgent": 511,
+      "callsPerActiveAgent": 211.1
+    },
+    "insertedDate": "2024-09-04T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 56110,
+      "totalQuedCallsASA": 23376,
+      "percentQuedCallsASA": 41.66
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 56110,
+      "callAHT_300_seconds": 41315,
+      "percentAHT_300_seconds": 73.63
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 118253,
+      "totalActiveAgent": 528,
+      "callsPerActiveAgent": 223.96
+    },
+    "insertedDate": "2024-09-05T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 59015,
+      "totalQuedCallsASA": 41179,
+      "percentQuedCallsASA": 69.78
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 59015,
+      "callAHT_300_seconds": 45404,
+      "percentAHT_300_seconds": 76.94
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 75533,
+      "totalActiveAgent": 503,
+      "callsPerActiveAgent": 150.17
+    },
+    "insertedDate": "2024-09-06T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 51253,
+      "totalQuedCallsASA": 46275,
+      "percentQuedCallsASA": 90.29
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 51253,
+      "callAHT_300_seconds": 40603,
+      "percentAHT_300_seconds": 79.22
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 54276,
+      "totalActiveAgent": 473,
+      "callsPerActiveAgent": 114.75
+    },
+    "insertedDate": "2024-09-07T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40492,
+      "totalQuedCallsASA": 39337,
+      "percentQuedCallsASA": 97.15
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40492,
+      "callAHT_300_seconds": 31687,
+      "percentAHT_300_seconds": 78.25
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 41897,
+      "totalActiveAgent": 479,
+      "callsPerActiveAgent": 87.47
+    },
+    "insertedDate": "2024-09-08T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 40708,
+      "totalQuedCallsASA": 39042,
+      "percentQuedCallsASA": 95.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 40708,
+      "callAHT_300_seconds": 31297,
+      "percentAHT_300_seconds": 76.88
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42455,
+      "totalActiveAgent": 544,
+      "callsPerActiveAgent": 78.04
+    },
+    "insertedDate": "2024-09-09T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 50919,
+      "totalQuedCallsASA": 48279,
+      "percentQuedCallsASA": 94.82
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 50919,
+      "callAHT_300_seconds": 40518,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 53616,
+      "totalActiveAgent": 542,
+      "callsPerActiveAgent": 98.92
+    },
+    "insertedDate": "2024-09-10T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 64569,
+      "totalQuedCallsASA": 62019,
+      "percentQuedCallsASA": 96.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 64569,
+      "callAHT_300_seconds": 54940,
+      "percentAHT_300_seconds": 85.09
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 66624,
+      "totalActiveAgent": 532,
+      "callsPerActiveAgent": 125.23
+    },
+    "insertedDate": "2024-09-11T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 80043,
+      "totalQuedCallsASA": 79479,
+      "percentQuedCallsASA": 99.3
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 80043,
+      "callAHT_300_seconds": 68888,
+      "percentAHT_300_seconds": 86.06
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 81688,
+      "totalActiveAgent": 571,
+      "callsPerActiveAgent": 143.06
+    },
+    "insertedDate": "2024-09-12T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 76558,
+      "totalQuedCallsASA": 75763,
+      "percentQuedCallsASA": 98.96
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 76558,
+      "callAHT_300_seconds": 64807,
+      "percentAHT_300_seconds": 84.65
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 79406,
+      "totalActiveAgent": 633,
+      "callsPerActiveAgent": 125.44
+    },
+    "insertedDate": "2024-09-13T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 45291,
+      "totalQuedCallsASA": 45052,
+      "percentQuedCallsASA": 99.47
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 45291,
+      "callAHT_300_seconds": 36163,
+      "percentAHT_300_seconds": 79.85
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 46868,
+      "totalActiveAgent": 637,
+      "callsPerActiveAgent": 73.58
+    },
+    "insertedDate": "2024-09-14T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 23280,
+      "totalQuedCallsASA": 23274,
+      "percentQuedCallsASA": 99.97
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 23280,
+      "callAHT_300_seconds": 18509,
+      "percentAHT_300_seconds": 79.51
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 23783,
+      "totalActiveAgent": 567,
+      "callsPerActiveAgent": 41.95
+    },
+    "insertedDate": "2024-09-15T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 30991,
+      "totalQuedCallsASA": 30985,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 30991,
+      "callAHT_300_seconds": 24661,
+      "percentAHT_300_seconds": 79.57
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 31616,
+      "totalActiveAgent": 606,
+      "callsPerActiveAgent": 52.17
+    },
+    "insertedDate": "2024-09-16T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 42405,
+      "totalQuedCallsASA": 42396,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 42405,
+      "callAHT_300_seconds": 35116,
+      "percentAHT_300_seconds": 82.81
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 43451,
+      "totalActiveAgent": 585,
+      "callsPerActiveAgent": 74.28
+    },
+    "insertedDate": "2024-09-17T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 41661,
+      "totalQuedCallsASA": 41652,
+      "percentQuedCallsASA": 99.98
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 41661,
+      "callAHT_300_seconds": 34105,
+      "percentAHT_300_seconds": 81.86
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 42482,
+      "totalActiveAgent": 594,
+      "callsPerActiveAgent": 71.52
+    },
+    "insertedDate": "2024-09-18T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 38020,
+      "totalQuedCallsASA": 37995,
+      "percentQuedCallsASA": 99.93
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 38020,
+      "callAHT_300_seconds": 30666,
+      "percentAHT_300_seconds": 80.66
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 38723,
+      "totalActiveAgent": 623,
+      "callsPerActiveAgent": 62.16
+    },
+    "insertedDate": "2024-09-19T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 26968,
+      "totalQuedCallsASA": 25043,
+      "percentQuedCallsASA": 92.86
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 26968,
+      "callAHT_300_seconds": 21611,
+      "percentAHT_300_seconds": 80.14
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 27703,
+      "totalActiveAgent": 636,
+      "callsPerActiveAgent": 43.56
+    },
+    "insertedDate": "2024-09-20T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 36095,
+      "totalQuedCallsASA": 35961,
+      "percentQuedCallsASA": 99.63
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 36095,
+      "callAHT_300_seconds": 28768,
+      "percentAHT_300_seconds": 79.7
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 36922,
+      "totalActiveAgent": 578,
+      "callsPerActiveAgent": 63.88
+    },
+    "insertedDate": "2024-09-21T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 27814,
+      "totalQuedCallsASA": 27810,
+      "percentQuedCallsASA": 99.99
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 27814,
+      "callAHT_300_seconds": 21888,
+      "percentAHT_300_seconds": 78.69
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 28241,
+      "totalActiveAgent": 565,
+      "callsPerActiveAgent": 49.98
+    },
+    "insertedDate": "2024-09-22T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 48850,
+      "totalQuedCallsASA": 48806,
+      "percentQuedCallsASA": 99.91
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 48850,
+      "callAHT_300_seconds": 39305,
+      "percentAHT_300_seconds": 80.46
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 49540,
+      "totalActiveAgent": 615,
+      "callsPerActiveAgent": 80.55
+    },
+    "insertedDate": "2024-09-23T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 68246,
+      "totalQuedCallsASA": 66914,
+      "percentQuedCallsASA": 98.05
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 68246,
+      "callAHT_300_seconds": 57412,
+      "percentAHT_300_seconds": 84.13
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 69745,
+      "totalActiveAgent": 616,
+      "callsPerActiveAgent": 113.22
+    },
+    "insertedDate": "2024-09-24T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-25T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-26T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-27T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-28T00:00:00.000Z"
+  },
+  {
+    "ASA_REPORT": {
+      "totalAnsweredCallASA": 0,
+      "totalQuedCallsASA": 0,
+      "percentQuedCallsASA": 0
+    },
+    "AHT_REPORT": {
+      "totalAnsweredCallAHT": 0,
+      "callAHT_300_seconds": 0,
+      "percentAHT_300_seconds": 0
+    },
+    "SEAT_UTILIZATION": {
+      "totalCallsLanded": 0,
+      "totalActiveAgent": 0,
+      "callsPerActiveAgent": 0
+    },
+    "insertedDate": "2024-09-29T00:00:00.000Z"
+  }
+]

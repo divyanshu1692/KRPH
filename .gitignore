@@ -1,0 +1,10 @@
+node_modules
+.idea
+swagger.json
+package-lock.json
+yarn.lock
+yarn-error.log
+env
+dist
+logs
+scripts
